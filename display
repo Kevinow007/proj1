@@ -1,4 +1,6 @@
 //Display
 public String display() {
-  return "display";
+
+// retour valeur
+return "display";
 }
