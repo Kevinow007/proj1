@@ -4,3 +4,9 @@ public String display() {
 // retour valeur
 return "display";
 }
+
+private String val = "";
+public void setvalue(String s) {
+// set now valeur
+val = s;
+}
