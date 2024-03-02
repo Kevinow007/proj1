@@ -2,7 +2,8 @@
 public String display() {
 
 // retour valeur
-return "display";
+String val = setvalue("test");
+return val;
 }
 
 private String val = "";
