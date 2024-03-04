@@ -11,3 +11,5 @@ public void setvalue(String s) {
 // set now valeur
 val = s;
 }
+
+private String val1 = "";
