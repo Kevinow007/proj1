@@ -1,15 +1,15 @@
 //Display
-public String display() {
-
-// retour valeur
-String val = setvalue("test");
-return val;
-}
-
-private String val = "";
-public void setvalue(String s) {
-// set now valeur
-val = s;
+public String displayValue() {
+String value = setvalue1("test");
+return value;
 }
 
 private String val1 = "";
+public void setvalue1(String s1) {
+val1 = s1;
+}
+
+private String val2 = "";
+public void setvalue2(String s2) {
+val2 = s2;
+}
