@@ -1,7 +1,9 @@
 //Display
 public String displayValue() {
-String value = setvalue1("test");
-return value;
+String value1 = setvalue1("test1");
+String value2 = setvalue2("test2");
+
+return value1 + " " + value2;
 }
 
 // Function setvalue1
