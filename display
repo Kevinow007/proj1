@@ -2,7 +2,6 @@
 public String displayValue() {
 String value1 = setvalue1("test1");
 String value2 = setvalue2("test2");
-
 return value1 + " " + value2;
 }
 
