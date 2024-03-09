@@ -16,3 +16,9 @@ private String val2 = "";
 public void setvalue2(String s2) {
 val2 = s2;
 }
+
+// Function setvalue3
+private String val3 = "";
+public void setvalue3(String s3) {
+val3 = s3;
+}
