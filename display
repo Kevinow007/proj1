@@ -25,4 +25,5 @@ val3 = s3;
 }
 
 public String cacat() {
+String s = setvalue1("a") + setvalue2("b") + setvalue3("c");
 }
