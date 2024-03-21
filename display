@@ -15,7 +15,7 @@ public void setvalue2(String s2) {
 val2 = s2;
 }
 
-// cacat chaine caractere et retourner la chaine
+// cacat chaine caractere et retourner la chaine.
 public String cacat() {
 String s = setvalue1("a") + setvalue2("b");
 return s;
